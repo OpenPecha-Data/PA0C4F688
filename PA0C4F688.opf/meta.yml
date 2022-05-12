@@ -20,3 +20,8 @@ source_metadata:
       parent: Prayers
 created_at: '2022-02-28T23:03:51.358582'
 last_modified_at: '2022-02-28T23:03:51.358584'
+statistics:
+  total_words: 1342
+  total_non_words: 80
+quality:
+  non_words_ratio: 0.06
